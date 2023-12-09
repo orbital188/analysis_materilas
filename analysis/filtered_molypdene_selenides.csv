@@ -1,0 +1,18 @@
+Unnamed: 0,Composition,MaterialId,Reduced Formula,Elements,NSites,Volume,Density,Point Group,Space Group,Space Group Number,Crystal System,Corrected Energy,Formation Energy Per Atom,Decomposition Energy Per Atom,Dimensionality Cheon,Bandgap,Is Train,Decomposition Energy Per Atom All,Decomposition Energy Per Atom Relative,Decomposition Energy Per Atom MP,Decomposition Energy Per Atom MP OQMD
+55087,Cs2Mo6O24Se4,249a7056af,CsMo3(SeO6)2,"['O', 'Se', 'Mo', 'Cs']",36,609.1185,4.2017,6,P6_3,173,hexagonal,-264.7429,-1.8095,-0.0303,intercalated ion,1.6704,True,-0.0,,-0.0303,-0.024
+68769,La4Mo1O24Se5,2ddbeb5f5a,La4MoSe5O24,"['O', 'Se', 'Mo', 'La']",34,774.5054,3.0667,2,C2,5,monoclinic,-241.3923,-2.1933,-0.1436,3D,4.0845,True,0.0,,-0.1436,-0.1415
+73252,Mo1O8Se1Zr1,30dc562d5b,ZrMoSeO8,"['O', 'Se', 'Zr', 'Mo']",11,188.8366,3.4657,3m,P3m1,156,trigonal,-85.8847,-2.1283,-0.0494,2D,3.5152,True,0.0,,-0.0494,-0.0159
+77919,Gd4Mo1O24Se5,33fa94bc89,Gd4MoSe5O24,"['O', 'Se', 'Mo', 'Gd']",34,708.4662,3.5245,2,C2,5,monoclinic,-276.8712,-2.1615,-0.2287,3D,3.4414,True,0.0,,-0.2287,-0.1451
+117473,Mo1O24Se5Tm4,4e3b546f46,Tm4MoSe5O24,"['O', 'Se', 'Mo', 'Tm']",34,660.7664,3.8964,2,C2,5,monoclinic,-239.7038,-2.1978,-0.2194,3D,3.803,True,0.0,,-0.2194,-0.1713
+133338,Bi10Mo1O24Se2,58c0335259,Bi10Mo(SeO12)2,"['O', 'Se', 'Mo', 'Bi']",37,599.204,7.559,1,P1,1,triclinic,-236.3413,-1.6447,-0.0353,intercalated molecule,2.5801,True,0.0,,-0.0353,-0.0351
+220420,K2Mo6O24Se4,92ab788018,KMo3(SeO6)2,"['O', 'K', 'Se', 'Mo']",36,599.9265,3.7468,6,P6_3,173,hexagonal,-264.526,-1.7916,-0.0166,intercalated ion,1.6227,True,0.0,,-0.0166,-0.0105
+227821,Bi4Mo1O24Se5,9779328d17,Bi4MoSe5O24,"['O', 'Se', 'Mo', 'Bi']",34,684.0598,4.1526,1,P1,1,triclinic,-211.1588,-1.4271,-0.0717,3D,2.8337,True,0.0,,-0.0717,-0.0699
+268522,La4Mo2O24Se4,b2addfa8b6,La2Mo(SeO6)2,"['O', 'Se', 'Mo', 'La']",34,787.8624,3.0505,m,Cc,9,monoclinic,-251.9774,-2.2885,-0.1177,3D,4.0636,True,0.0,,-0.1177,-0.116
+286367,Mg4Mo2O14Se2,be73b18e15,Mg2MoSeO7,"['O', 'Mg', 'Se', 'Mo']",22,321.2858,3.4681,2,P2_1,4,monoclinic,-153.7748,-2.2463,-0.0074,3D,3.9141,True,0.0,,-0.0074,-0.0074
+313775,Mo1O24Se5Tb4,d0ac63e9d0,Tb4MoSe5O24,"['O', 'Se', 'Mo', 'Tb']",34,693.6652,3.6158,2,C2,5,monoclinic,-239.8149,-2.1824,-0.1647,3D,3.9251,True,0.0,,-0.1647,-0.1629
+329270,Ce4Mo1O24Se5,daf79101c8,Ce4MoSe5O24,"['O', 'Se', 'Mo', 'Ce']",34,717.8575,3.3199,2,C2,5,monoclinic,-251.0167,-2.3591,-0.1492,intercalated ion,,False,0.0,,-0.1492,-0.1487
+350516,Cs2Mo6O24Se4,e916e39716,CsMo3(SeO6)2,"['O', 'Se', 'Mo', 'Cs']",36,611.0284,4.1886,6,P6_3,173,hexagonal,-264.7413,-1.8095,-0.0302,intercalated ion,1.6851,True,0.0,,-0.0302,-0.024
+351359,La8Mo3O24Se1,e9acf97459,La8Mo3SeO24,"['O', 'Se', 'Mo', 'La']",36,525.1955,5.8872,-4,I-4,82,tetragonal,-304.9849,-3.0754,-0.0292,3D,,True,0.0,,-0.0292,-0.0267
+366426,Ga1Mo4O40Se8V7,f39d63d784,V7GaMo4(SeO5)8,"['O', 'V', 'Ga', 'Se', 'Mo']",60,876.4551,3.9441,1,P1,1,triclinic,-447.9276,-1.8674,-0.0105,3D,,True,0.0,,-0.0105,-0.0062
+368853,Mo1O24Pm4Se5,f5464a25c8,Pm4MoSe5O24,"['O', 'Se', 'Mo', 'Pm']",34,479.0364,5.0427,1,P1,1,triclinic,-237.877,-2.1117,-0.2303,3D,3.2498,True,0.0,,-0.2303,-0.2293
+371250,Mo6O24Rb2Se4,f6e58127a2,RbMo3(SeO6)2,"['O', 'Se', 'Rb', 'Mo']",36,598.5527,4.0127,6,P6_3,173,hexagonal,-264.5582,-1.7997,-0.0225,intercalated ion,1.6583,True,0.0,,-0.0225,-0.0163
