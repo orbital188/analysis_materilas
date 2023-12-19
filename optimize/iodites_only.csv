@@ -1,0 +1,28 @@
+Unnamed: 0,Composition,MaterialId,Reduced Formula,Elements,NSites,Volume,Density,Point Group,Space Group,Space Group Number,Crystal System,Corrected Energy,Formation Energy Per Atom,Decomposition Energy Per Atom,Dimensionality Cheon,Bandgap,Is Train,Decomposition Energy Per Atom All,Decomposition Energy Per Atom Relative,Decomposition Energy Per Atom MP,Decomposition Energy Per Atom MP OQMD
+28544,I8Na8O24,13029f7474,NaIO3,"['O', 'Na', 'I']",40,615.5891,4.2705,mm2,Pca2_1,29,orthorhombic,-194.583,-1.3256,-0.0035,intercalated ion,3.5013,True,0.0,,-0.0035,-0.0035
+37736,Ca3Cd1I8O24,192823bda1,Ca3Cd(IO3)8,"['O', 'Ca', 'Cd', 'I']",36,610.7305,4.4369,1,P1,1,triclinic,-188.5272,-1.4068,-0.0033,intercalated ion,3.2806,True,0.0,,-0.0033,-0.0033
+43363,I6Li2O18Pd1,1cef4f2967,Li2Pd(IO3)6,"['Li', 'O', 'Pd', 'I']",27,409.9579,4.738,3,P3,143,trigonal,-134.323,-1.0044,-0.0173,intercalated ion,1.46,True,0.0,,-0.0173,-0.0067
+44686,I6K1Nb1O18,1dd8abd482,KNb(IO3)6,"['O', 'K', 'Nb', 'I']",26,467.9593,4.1922,3,R3,146,trigonal,-140.675,-1.2022,-0.0187,intercalated ion,,True,0.0,,-0.0187,-0.01
+60561,Cd1Hg3I8O24,2858729b96,CdHg3(IO3)8,"['O', 'Cd', 'I', 'Hg']",36,621.226,5.6491,1,P1,1,triclinic,-163.8777,-0.8639,-0.0026,2D,2.9513,True,0.0,,-0.0026,-0.0026
+108480,Cs1I6O18Ta1,485285bbab,CsTa(IO3)6,"['O', 'I', 'Cs', 'Ta']",26,481.8807,4.6978,3,R3,146,trigonal,-143.4149,-1.2482,-0.0137,intercalated ion,3.0107,True,0.0,,-0.0137,-0.0137
+115083,Ac2I6O18,4ca7b52ed3,Ac(IO3)3,"['O', 'I', 'Ac']",26,468.9884,5.3231,6,P6_3,173,hexagonal,-145.2162,-1.491,-0.1606,3D,,True,0.0,,-0.1606,-0.1606
+141036,Ag1I4K1O12,5de373f6fb,KAg(IO3)4,"['O', 'K', 'Ag', 'I']",18,315.3864,4.4573,2,C2,5,monoclinic,-85.5874,-0.8985,-0.0052,intercalated ion,1.3107,True,0.0,,-0.0052,-0.0051
+146579,Ag1I4O12Rb1,6188e778a8,RbAg(IO3)4,"['O', 'Rb', 'Ag', 'I']",18,325.6505,4.5533,2,C2,5,monoclinic,-85.456,-0.8984,-0.0051,intercalated ion,1.2845,True,0.0,,-0.0051,-0.005
+152239,Ca1Hg3I8O24,6554993a35,CaHg3(IO3)8,"['O', 'Ca', 'I', 'Hg']",36,622.9622,5.4406,1,P1,1,triclinic,-169.5094,-0.9903,-0.0037,intercalated ion,2.9606,True,-0.0,,-0.0037,-0.0037
+172458,Ba3I2O6Se2,72c86ab1e3,Ba3Se2(IO3)2,"['O', 'Se', 'I', 'Ba']",13,334.9796,4.5591,2,C2,5,monoclinic,-74.9222,-2.2644,-0.0076,intercalated ion,3.9698,True,0.0,,-0.0076,-0.0055
+172657,Ge1I6Li2O18,72eea3975e,Li2Ge(IO3)6,"['Li', 'O', 'Ge', 'I']",27,403.4476,4.6754,3,P3,143,trigonal,-137.4733,-1.1417,-0.0047,intercalated ion,3.0612,True,0.0,,-0.0047,-0.0018
+182713,Ce1Hf1I8O24,79a14281db,CeHf(IO3)8,"['O', 'I', 'Ce', 'Hf']",34,581.8407,4.9026,4,P4,75,tetragonal,-192.8901,-1.3546,-0.0192,3D,,True,0.0,,-0.0192,-0.0187
+186573,Ag2I4O12,7c2c67c35f,Ag(IO3)2,"['O', 'Ag', 'I']",18,306.3786,4.9611,2,P2_1,4,monoclinic,-83.874,-0.7076,-0.0018,3D,0.072,True,0.0,,-0.0018,-0.0013
+190045,Cs1I6O18Sb1,7e815cd2b2,CsSb(IO3)6,"['O', 'Sb', 'I', 'Cs']",26,476.2312,4.5471,3,R3,146,trigonal,-130.1847,-1.0367,-0.0158,intercalated ion,,True,0.0,,-0.0158,-0.0139
+227342,I4O12Pd1Sr1,97295d15c1,SrPd(IO3)4,"['O', 'Sr', 'Pd', 'I']",18,304.3564,4.8757,1,P1,1,triclinic,-93.1651,-1.1569,-0.0042,intercalated ion,1.9532,True,0.0,,-0.0042,-0.0036
+228037,Ba1I6O18Sn1,97988eac43,BaSn(IO3)6,"['O', 'Sn', 'I', 'Ba']",26,443.7561,4.885,3,R3,146,trigonal,-135.0365,-1.1885,-0.0021,intercalated ion,3.1506,True,0.0,,-0.0021,-0.0021
+238094,I6O18Rb1Ta1,9e5b5a6e65,RbTa(IO3)6,"['O', 'Rb', 'I', 'Ta']",26,467.9592,4.6692,3,R3,146,trigonal,-143.5008,-1.2483,-0.0255,intercalated ion,2.9817,True,0.0,,-0.0255,-0.0255
+238217,I6Li2O18Pt1,9e6dd9f704,Li2Pt(IO3)6,"['Li', 'O', 'I', 'Pt']",27,410.7868,5.0868,3,P3,143,trigonal,-135.6741,-1.0214,-0.0122,intercalated ion,1.9452,True,0.0,,-0.0122,-0.0094
+265169,I10Lu2O30Rb4,b06f1d6004,Rb2Lu(IO3)5,"['O', 'Rb', 'I', 'Lu']",46,791.0847,5.1235,mm2,Aem2,39,orthorhombic,-243.12,-1.4452,-0.0049,intercalated ion,,True,0.0,,-0.0049,-0.0049
+267396,Ce1I8O24Zr1,b1e5ba3ecc,CeZr(IO3)8,"['O', 'Zr', 'I', 'Ce']",34,581.8407,4.6535,4,P4,75,tetragonal,-190.9928,-1.3403,-0.006,3D,1.6649,True,0.0,,-0.006,-0.006
+270272,I6Li2O18Pt1,b3d43f498f,Li2Pt(IO3)6,"['Li', 'O', 'I', 'Pt']",27,410.7868,5.0868,3,P3,143,trigonal,-135.6744,-1.0212,-0.0122,intercalated ion,,True,0.0,,-0.0122,-0.0094
+290232,Cs1I6Nb1O18,c100aa5344,CsNb(IO3)6,"['O', 'Nb', 'I', 'Cs']",26,484.7406,4.3685,3,R3,146,trigonal,-140.5103,-1.2041,-0.0101,intercalated ion,2.7203,True,0.0,,-0.0101,-0.0083
+305365,Ca3I2O6Se2,cb1bb8677b,Ca3Se2(IO3)2,"['O', 'Ca', 'Se', 'I']",13,262.3628,3.9745,2,C2,5,monoclinic,-74.6265,-2.2217,-0.0095,intercalated ion,3.5166,True,0.0,,-0.0095,-0.0038
+325950,I6Li2O18Pt1,d8c9a74dbe,Li2Pt(IO3)6,"['Li', 'O', 'I', 'Pt']",27,410.7868,5.0868,3,P3,143,trigonal,-135.6744,-1.0212,-0.0122,intercalated ion,,True,0.0,,-0.0122,-0.0094
+331329,I6Li2O18V1,dc621b12dc,Li2V(IO3)6,"['Li', 'O', 'V', 'I']",27,406.5674,4.5509,1,P1,1,triclinic,-143.4278,-1.197,-0.0137,intercalated ion,1.5124,True,-0.0,,-0.0137,-0.0108
+359106,I6Nb1O18Rb1,eec36ec959,RbNb(IO3)6,"['O', 'Rb', 'Nb', 'I']",26,470.5974,4.3324,3,R3,146,trigonal,-140.5991,-1.2042,-0.022,intercalated ion,2.7243,False,0.0,,-0.022,-0.0202

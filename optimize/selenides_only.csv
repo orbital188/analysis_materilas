@@ -1,0 +1,36 @@
+Unnamed: 0,Composition,MaterialId,Reduced Formula,Elements,NSites,Volume,Density,Point Group,Space Group,Space Group Number,Crystal System,Corrected Energy,Formation Energy Per Atom,Decomposition Energy Per Atom,Dimensionality Cheon,Bandgap,Is Train,Decomposition Energy Per Atom All,Decomposition Energy Per Atom Relative,Decomposition Energy Per Atom MP,Decomposition Energy Per Atom MP OQMD
+14506,Hg2O24Rh4Se8,09b8af54dc,HgRh2(SeO3)4,"['O', 'Se', 'Rh', 'Hg']",38,539.9888,5.6228,1,P1,1,triclinic,-220.0188,-1.1378,-0.0028,3D,0.7392,True,0.0,,-0.0028,-0.0028
+25834,Cd2O24Se8V4,1139da827e,V2Cd(SeO3)4,"['O', 'V', 'Se', 'Cd']",38,588.6478,4.0742,m,Pc,7,monoclinic,-247.3617,-1.6437,-0.0164,3D,1.9367,True,0.0,,-0.0164,-0.0164
+34968,O24Se8V4Zn2,1750626be1,V2Zn(SeO3)4,"['O', 'V', 'Zn', 'Se']",38,561.2855,3.9947,m,Pc,7,monoclinic,-249.021,-1.6697,-0.0109,3D,1.9372,True,0.0,,-0.0109,-0.0109
+37626,Li1Mg1O24Se8V4,191671b373,LiMgV4(SeO3)8,"['Li', 'O', 'Mg', 'V', 'Se']",38,551.4104,3.7663,1,P1,1,triclinic,-253.8965,-1.7719,-0.0214,intercalated ion,,True,0.0,,-0.0214,-0.016
+46402,O24Pb2Rh4Se8,1ef66929ea,Rh2Pb(SeO3)4,"['O', 'Se', 'Rh', 'Pb']",38,557.738,5.4832,1,P1,1,triclinic,-231.338,-1.2562,-0.0056,3D,1.2332,True,0.0,,-0.0056,-0.0039
+74843,Gd3O18Se6Y1,31df8e2196,Gd3Y(SeO3)6,"['O', 'Se', 'Y', 'Gd']",28,456.3041,4.8124,1,P1,1,triclinic,-223.8631,-2.3261,-0.1837,3D,3.0502,True,0.0,,-0.1837,-0.0934
+103869,Cu6Ga1O36Se12V3,4547feddcd,V3GaCu6(SeO3)12,"['O', 'V', 'Cu', 'Ga', 'Se']",58,815.1105,4.3338,1,P1,1,triclinic,-355.4546,-1.388,-0.0053,3D,0.0001,True,-0.0,,-0.0053,-0.0047
+114021,Bi4Ga4O36Se12,4bfb56cd0e,GaBi(SeO3)3,"['O', 'Ga', 'Se', 'Bi']",56,889.9664,4.9227,222,P2_12_12_1,19,orthorhombic,-333.3441,-1.5285,-0.0125,3D,,True,0.0,,-0.0125,-0.0125
+116375,Na4O24Rh4Se8,4d80a848e4,NaRh(SeO3)2,"['O', 'Na', 'Se', 'Rh']",40,547.5743,4.6072,mm2,Pna2_1,33,orthorhombic,-236.8264,-1.3836,-0.0232,intercalated ion,1.3977,True,0.0,,-0.0232,-0.0231
+119673,Lu1O18Se6Tm3,4fa5d3a1e3,Tm3Lu(SeO3)6,"['O', 'Se', 'Tm', 'Lu']",28,425.9103,5.628,1,P1,1,triclinic,-193.9877,-2.3572,-0.1501,3D,3.9271,True,0.0,,-0.1501,-0.0811
+122363,O24Pb2Se8V4,517bec8746,V2Pb(SeO3)4,"['O', 'V', 'Se', 'Pb']",38,575.4133,4.7149,1,P1,1,triclinic,-254.0074,-1.6718,-0.0258,3D,1.9705,True,0.0,,-0.0258,-0.0258
+126163,Cu5Mg1O36Se12V4,53fe1b6d8f,MgV4Cu5(SeO3)12,"['O', 'Mg', 'V', 'Cu', 'Se']",58,820.7911,4.1864,1,P1,1,triclinic,-364.7708,-1.4873,-0.003,3D,,True,0.0,,-0.003,-0.0029
+135094,Cd1Cu4Hg3O24Se8,59e7450522,CdCu4Hg3(SeO3)8,"['O', 'Cu', 'Se', 'Cd', 'Hg']",40,623.9155,5.2805,1,P1,1,triclinic,-209.8849,-1.1234,-0.0022,,0.5425,,0.0,,-0.0022,-0.0018
+135677,O24Sc4Se8Zn2,5a48fb7746,Sc2Zn(SeO3)4,"['O', 'Sc', 'Zn', 'Se']",38,604.5052,3.6433,m,Pc,7,monoclinic,-252.975,-2.0633,-0.0022,3D,4.0251,True,0.0,,-0.0022,-0.0022
+144730,Gd3Lu1O18Se6,60530b43ae,Gd3Lu(SeO3)6,"['O', 'Se', 'Gd', 'Lu']",28,448.3877,5.2161,1,P1,1,triclinic,-222.0539,-2.3309,-0.1767,3D,,True,0.0,,-0.1767,-0.0846
+166502,Gd3O18Se6Tm1,6eb876d0fd,Gd3Tm(SeO3)6,"['O', 'Se', 'Gd', 'Tm']",28,450.925,5.1645,1,P1,1,triclinic,-222.0309,-2.3317,-0.1803,3D,3.0546,True,0.0,,-0.1803,-0.0652
+172961,Al1Cu6O36Se12V3,73270557cf,AlV3Cu6(SeO3)12,"['O', 'Al', 'V', 'Cu', 'Se']",58,815.1105,4.2467,1,P1,1,triclinic,-359.032,-1.4373,-0.0066,3D,,True,-0.0,,-0.0066,-0.0046
+187884,O24Pb2Sc4Se8,7d0d47f37c,Sc2Pb(SeO3)4,"['O', 'Sc', 'Se', 'Pb']",38,614.1988,4.3525,1,P1,1,triclinic,-257.5938,-2.0558,-0.007,3D,3.7005,True,0.0,,-0.007,-0.007
+203490,Hg2O24Sc4Se8,87795d2397,Sc2Hg(SeO3)4,"['O', 'Sc', 'Se', 'Hg']",38,642.9308,4.1238,m,Pc,7,monoclinic,-246.5594,-1.9448,-0.0031,3D,2.9053,True,-0.0,,-0.0031,-0.0031
+216167,Gd1La3O18Se6,8fd6823c8d,La3Gd(SeO3)6,"['O', 'Se', 'La', 'Gd']",28,493.4463,4.4949,1,P1,1,triclinic,-204.6452,-2.3472,-0.0573,3D,3.14,True,0.0,,-0.0573,-0.0266
+234527,La3Lu1O18Se6,9bfcde28df,La3Lu(SeO3)6,"['O', 'Se', 'La', 'Lu']",28,485.2794,4.6312,1,P1,1,triclinic,-195.2348,-2.3524,-0.042,3D,4.1484,True,0.0,,-0.042,-0.042
+235886,Lu4Mg2O24Se8,9ce74a618e,Lu2Mg(SeO3)4,"['O', 'Mg', 'Se', 'Lu']",38,653.8041,4.4806,m,Pc,7,monoclinic,-254.291,-2.2707,-0.0788,3D,4.1616,True,-0.0,,-0.0788,-0.0788
+267067,Cd2O24Sc4Se8,b1ad59230f,Sc2Cd(SeO3)4,"['O', 'Sc', 'Se', 'Cd']",38,637.0482,3.7022,m,Pc,7,monoclinic,-251.5301,-2.0431,-0.0046,3D,3.9123,True,0.0,,-0.0046,-0.0046
+282355,O6P2Rb6Se2,bbe278249c,Rb3PSeO3,"['O', 'P', 'Se', 'Rb']",16,404.7926,3.3994,3m,R3c,161,trigonal,-88.3073,-2.1824,-0.0549,intercalated ion,2.9871,False,0.0,,-0.0549,-0.0308
+286117,Al4O24Pb2Se8,be492b44a5,Al2Pb(SeO3)4,"['O', 'Al', 'Se', 'Pb']",38,531.9621,4.8009,1,P1,1,triclinic,-240.4274,-1.8764,-0.0357,3D,3.8641,True,0.0,,-0.0357,-0.0339
+331302,Na6O6P2Se2,dc5c0b8775,Na3PSeO3,"['O', 'Na', 'P', 'Se']",16,262.2408,2.8735,3m,R3c,161,trigonal,-90.0099,-2.1605,-0.0066,intercalated ion,3.4528,True,0.0,,-0.0066,-0.0059
+333249,Ga4O24Pb2Se8,ddaa1e553c,Ga2Pb(SeO3)4,"['O', 'Ga', 'Se', 'Pb']",38,556.2183,5.1019,1,P1,1,triclinic,-225.7161,-1.5647,-0.011,3D,3.7288,True,-0.0,,-0.011,-0.0092
+343238,Mg2O24Sc4Se8,e44fa2cb95,MgSc2(SeO3)4,"['O', 'Mg', 'Sc', 'Se']",38,607.4669,3.4008,m,Pc,7,monoclinic,-259.1452,-2.2078,-0.0074,3D,4.1278,True,0.0,,-0.0074,-0.0074
+354134,O24Pb2Se8V4,eb770ac060,V2Pb(SeO3)4,"['O', 'V', 'Se', 'Pb']",38,575.5908,4.7135,1,P1,1,triclinic,-254.0058,-1.6717,-0.0257,3D,,True,0.0,,-0.0257,-0.0257
+365609,Ca6Ga1O36Sc3Se12,f31171420a,Ca6Sc3Ga(SeO3)12,"['O', 'Ca', 'Sc', 'Ga', 'Se']",58,887.6006,3.6828,32,R32,155,trigonal,-382.6065,-2.215,-0.0049,intercalated ion,,True,0.0,,-0.0049,-0.003
+366844,Mg4O18Rb4Se6,f3e2eceb62,Rb2Mg2(SeO3)3,"['O', 'Mg', 'Se', 'Rb']",32,505.144,3.9475,6mm,P6_3mc,186,hexagonal,-183.5049,-1.9732,-0.0313,intercalated ion,3.8414,False,0.0,,-0.0313,-0.025
+373417,Ag4O24Rh4Se8,f8553d2ba8,AgRh(SeO3)2,"['O', 'Se', 'Rh', 'Ag']",40,590.7847,5.2245,mm2,Pna2_1,33,orthorhombic,-231.0056,-1.0875,-0.0229,3D,,False,0.0,,-0.0229,-0.0229
+373886,Bi4Na4O24Se8,f8a4b888e9,NaBi(SeO3)2,"['O', 'Na', 'Se', 'Bi']",40,618.209,5.2205,mm2,Pna2_1,33,orthorhombic,-230.4233,-1.5709,-0.0123,intercalated ion,,True,0.0,,-0.0123,-0.0122
+380253,O24Se8V4Zn2,fce5583c28,V2Zn(SeO3)4,"['O', 'V', 'Zn', 'Se']",38,561.2197,3.9951,m,Pc,7,monoclinic,-249.0224,-1.6697,-0.0109,3D,1.9438,True,0.0,,-0.0109,-0.0109
+383074,Gd3O18Se6Tb1,fecea5a4f7,TbGd3(SeO3)6,"['O', 'Se', 'Gd', 'Tb']",28,457.4857,5.0541,1,P1,1,triclinic,-222.1075,-2.3288,-0.1568,3D,3.043,True,-0.0,,-0.1568,-0.0648
